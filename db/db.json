@@ -1,24 +1,19 @@
 {
   "notes": [
     {
-      "title": "Test Title Number 1",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus semper ullamcorper. Duis eu nisl viverra, auctor dui iaculis, viverra dolor. Integer pretium, lorem a mattis dapibus, lorem risus venenatis mi, et tincidunt nisl orci sit amet mi. In ultrices mauris rutrum mi lacinia imperdiet. Maecenas ultricies ante eget arcu blandit fringilla. Fusce sed est metus. Nam lacinia cursus sem id elementum. Aenean malesuada lacus in sapien imperdiet, ac pulvinar nulla condimentum. Nam enim massa, elementum sit amet lacus a, feugiat tempor felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
-      "id": "0"
+        "title": "Note 1",
+        "text": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus semper ullamcorper. Duis eu nisl viverra, auctor dui iaculis, viverra dolor. Integer pretium, lorem a mattis dapibus, lorem risus venenatis mi, et tincidunt nisl orci sit amet mi. In ultrices mauris rutrum mi lacinia imperdiet. Maecenas ultricies ante eget arcu blandit fringilla. Fusce sed est metus. Nam lacinia cursus sem id elementum. Aenean malesuada lacus in sapien imperdiet, ac pulvinar nulla condimentum. Nam enim massa, elementum sit amet lacus a, feugiat tempor felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "id": "ef3de003-f7c3-4521-96e9-60fbd4f1d718"
     },
     {
-      "title": "Test Title Number 2",
+      "title": "Note 2",
       "text": "Nullam pulvinar purus dui, ut vestibulum dolor rutrum in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum laoreet nisi vitae nulla rutrum tincidunt. Nullam iaculis id turpis in dictum. Proin eu hendrerit augue, et auctor quam. Sed malesuada est dui, eu sagittis dui laoreet quis. Cras commodo nulla in cursus viverra. Vivamus varius, elit in aliquam ultrices, sem odio pharetra felis, nec vulputate elit lorem aliquet justo. Vestibulum vel felis a nulla semper ullamcorper sit amet rutrum sem. Fusce ultrices arcu hendrerit elit elementum eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "id": "1"
+      "id": "3ac21593-d56f-4f20-a81f-b2ba59a527a0"
     },
     {
-      "title": "Test Title Number 3",
+      "title": "Note 3",
       "text": "Mauris in erat pulvinar, commodo elit non, interdum turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod tempor semper. Ut tempor feugiat libero imperdiet lobortis. Duis tempus venenatis mi, eu viverra leo feugiat eget. Praesent nibh erat, luctus eget lacus et, aliquet ornare eros. Etiam bibendum pretium eros, vitae pretium ligula volutpat ut. Nam et diam sit amet diam efficitur ornare. Cras interdum scelerisque sem. Nulla ipsum erat, lacinia vehicula quam a, porttitor vestibulum lacus. Donec elit ligula, rhoncus nec justo vel, faucibus euismod libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed turpis lobortis neque vehicula dignissim. Suspendisse massa nulla, bibendum sit amet lacinia in, scelerisque eu urna. Fusce fringilla imperdiet elit, ac condimentum nibh vehicula non. Nam erat est, dignissim at faucibus non, suscipit vitae augue.",
-      "id": "2"
-    },
-    {
-      "title": "New Test Note",
-      "text": "Hello this is a new note",
-      "id": "3"
+      "id": "81bfdc9b-8e08-490f-9279-9637b0ecfefc"
     }
   ]
 }

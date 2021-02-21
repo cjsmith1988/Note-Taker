@@ -23,10 +23,8 @@ router.get('/notes', (req, res) => {
 
   router.post('/notes', (req, res) => {
       //req.body is where our incoming content will be
-      // set id based on what the next indwx of the array will be
+      // set id as a universal unique identifier
       req.body.id = uuidv4();
-     //console.log(req.body);
-     //add animal to json file and animals array in this function
     // if any data in req.body is incorrect, send 400 error back
     console.log(req.body);
         if (!validateNote(req.body)) {
@@ -38,9 +36,11 @@ router.get('/notes', (req, res) => {
   });
   router.delete('/notes/:id', (req, res) => {
     const result = findById(req.params.id, notes);
-   
+   //had to add elseif because the '0' was making the if return false, therefore not being able to delete first item.
     if (result) {
-
+        const newNotes = deleteNote(result, notes);
+        res.json(newNotes);
+    } else if (result === 0) {
         const newNotes = deleteNote(result, notes);
         res.json(newNotes);
     } else {

@@ -5,7 +5,7 @@ https://guarded-fjord-41382.herokuapp.com/
  
 **Project name**: Note Taker Challenge
 
-**Description**: This project purpose was to further develop Node.js skills as well as new test Express.js knowledge.
+**Description**: This project purpose was to further develop Node.js skills as well as to test Express.js knowledge.
 
 **Special Notes**: this project is live using Heroku. the modules used are: express, jest, uuid.
 

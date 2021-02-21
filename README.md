@@ -23,7 +23,7 @@ To download this application localy follow these steps:
 
 - In the command line type "npm i"
 
--to run the jest tests type "npm run test"
+- to run the jest tests type "npm run test"
 
 - After the install is complete type "npm start" to start the application
 

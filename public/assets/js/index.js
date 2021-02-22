@@ -47,11 +47,8 @@ const saveNote = (note) =>
       return response.json();
     }
     alert('Error: ' + response.statusText);
-  })
-  .then(postResponse => {
-    console.log(postResponse);
-    alert('Thank you for adding an note!');
   });
+  
 
 const deleteNote = (id) =>
   fetch(`/api/notes/${id}`, {

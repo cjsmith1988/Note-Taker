@@ -5,7 +5,7 @@ https://guarded-fjord-41382.herokuapp.com/
  
 **Project name**: Note Taker Challenge
 
-**Description**: This project purpose was to further develop Node.js skills as well as new test Express.js knowledge.
+**Description**: This project purpose was to further develop Node.js skills as well as to test Express.js knowledge.
 
 **Special Notes**: this project is live using Heroku. the modules used are: express, jest, uuid.
 
@@ -73,5 +73,5 @@ WHEN I click on the Write icon in the navigation at the top of the page
 
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-![Homepage view](https://github.com/cjsmith1988/Team-profile-generator/blob/main/bashScreenGrab.PNG?raw=true)
-![notes view](https://github.com/cjsmith1988/Team-profile-generator/blob/main/pageScreenGrab.PNG?raw=true)
+![Homepage view](https://github.com/cjsmith1988/Note-Taker/blob/main/images/indexScreenGrab.PNG?raw=true)
+![notes view](https://github.com/cjsmith1988/Note-Taker/blob/main/images/notesScreenGrab.PNG?raw=true)

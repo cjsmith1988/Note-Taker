@@ -12,8 +12,8 @@ router.get('/notes', (req, res) => {
   });
 
   router.get('/notes/:id', (req, res) => {
+    //will return index # of note in the array
       const result = findById(req.params.id, notes);
-     
       if (result) {
         res.json(result);
       } else {
